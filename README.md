@@ -1,6 +1,13 @@
 <div align="center">
 
-## Hello, i am Lucas Lima
+## Bem-vindo, eu sou Lucas 
+
+</div>
+
+<div align="center">
+
+## Sistema de Informação 
+## KNN- Curso Inglês.
 
 </div>
 
