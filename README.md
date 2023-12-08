@@ -1,7 +1,7 @@
 ## Hello, i am Lucas Lima
  <div>
   <a href="https://github.com/Lucas0Lima21">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lucas0Lima21&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Lucas0Lima21&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0Lima21&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
