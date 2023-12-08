@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, i am Lucas Lima
+ <div>
+  <a href="https://github.com/Lucas0Lima21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas0Lima21&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0Lima21&layout=compact&langs_count=16&theme=onedark"/>
+</div>
 
-<!--
-**Lucas0Lima21/Lucas0Lima21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+</div>       
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
