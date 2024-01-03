@@ -38,8 +38,3 @@
 
 ##
 
-<div align="center">
- 
-  <img height="40px" src="https://visitor-badge.feriirawann.repl.co/?username=Lucas0Lima21&repo=Lucas0Lima21&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil"/> 
-
-</div>
