@@ -39,9 +39,7 @@
 
 <div align="center">
 
-### 💻 Tecnologias
-
-**Java • Node.js • JavaScript • HTML5 • CSS3 • MySQL • Linux • LSP (Linguagem Senior de Programação)**
+<img src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=Lucas0Lima21&layout=compact&langs_count=6" />
 
 </div>
 
